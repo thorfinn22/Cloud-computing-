@@ -1,0 +1,3 @@
+http://54.158.242.24/photoalbum/album.php
+HarryELB-1138575661.us-east-1.elb.amazonaws.com
+http://harryelb-1138575661.us-east-1.elb.amazonaws.com/photoalbum/album.php
